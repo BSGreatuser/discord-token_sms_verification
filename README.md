@@ -1,6 +1,4 @@
-https://sms-activate.org/
-
-https://2captcha.com/
+### [sms-activate](https://sms-activate.org/), [2captcha](https://2captcha.com/) API 필요
 
 
 ### sms-activate 모듈 설치시 아래 명령어를 사용해주세요
